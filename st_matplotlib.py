@@ -1,9 +1,6 @@
 # -*- coding: utf-8 -*-
 
 import streamlit as st
-import numpy as np
-import st_pandas as pd
-import time
 from matplotlib import pyplot as plt
 import webbrowser
 
