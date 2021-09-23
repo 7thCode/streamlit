@@ -1,9 +1,7 @@
 # -*- coding: utf-8 -*-
 
 import time
-
 import streamlit as st
-
 
 def main():
     status_text = st.empty()

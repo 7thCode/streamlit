@@ -2,7 +2,6 @@
 
 import streamlit as st
 
-
 def main():
     # タイトル
     st.title('Application title.')
