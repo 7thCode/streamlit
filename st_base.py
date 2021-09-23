@@ -5,7 +5,7 @@ import streamlit as st
 
 def main():
     # タイトル
-    st.title('Application title')
+    st.title('Application title.')
     # ヘッダ
     st.header('Header')
     # 純粋なテキスト
