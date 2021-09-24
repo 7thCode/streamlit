@@ -6,7 +6,7 @@ def main():
     # タイトル
     st.title('Application title.')
     # ヘッダ
-    st.header('Header')
+    st.header('Header...')
     # 純粋なテキスト
     st.text('Some text')
     # サブレベルヘッダ
