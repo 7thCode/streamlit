@@ -8,7 +8,7 @@ def main():
     # ヘッダ
     st.header('Header...')
     # 純粋なテキスト
-    st.text('Some text')
+    st.text('HOGE text')
     # サブレベルヘッダ
     st.subheader('Sub header')
     # マークダウンテキスト
@@ -18,7 +18,7 @@ def main():
     # コードスニペット
     st.code('print(\'Hello, World!\')')
     # エラーメッセージ
-    st.error('Error message')
+    st.error('Error message1')
     # 警告メッセージ
     st.warning('Warning message')
     # 情報メッセージ
